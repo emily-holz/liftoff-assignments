@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-All three wireframes can be found in liftoff-assignments/P3-Project_Planning/MusicForumWireFrame.jpeg
+[Wireframes for project architecture] (./MusicForumWireFrame.jpeg)
 
 ### Project Tracker
 
